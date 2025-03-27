@@ -6,7 +6,7 @@ padding.x = 2
 padding.y = 2
 
 [font]
-size = 14
+size = 20
 normal = { family = "JetBrainsMono Nerd Font", style = "Regular" }
 bold = { family = "JetBrainsMono Nerd Font", style = "Bold" }
 italic = { family = "JetBrainsMono Nerd Font", style = "Italic" }
